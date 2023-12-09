@@ -1,0 +1,19 @@
+# Liste de personnes
+p1.class=org.vitu.reflect.model.Person
+p1.name.type=java.lang.String
+p1.name=Paul
+p1.age.type=int
+p1.age=29
+p1.city.type=java.lang.String
+p1.city=Manchester
+p1.retired.type=boolean
+p1.retired=false
+p2.class=org.vitu.reflect.model.Person
+p2.name.type=java.lang.String
+p2.name=Didier
+p2.age.type=int
+p2.age=56
+p2.city.type=java.lang.String
+p2.city=Paris
+p2.retired.type=boolean
+p2.retired=true
